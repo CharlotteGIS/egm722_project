@@ -1,0 +1,94 @@
+,district,weighted_area,weighted_area_percentile,status
+0,Allermöhe,5680.7298615,0,very low
+1,Alsterdorf,557766.1685765,4,very high
+2,Altengamme,3185.706718,0,very low
+3,Altona-Altstadt,244193.273686,3,high
+4,Altona-Nord,330024.8229195,3,high
+5,Bahrenfeld,340127.202095,3,high
+6,Barmbek-Nord,908627.8429865,4,very high
+7,Barmbek-Süd,344372.7682405,3,high
+8,Bergedorf,232291.827208,3,high
+9,Bergstedt,154225.4668295,2,medium
+10,Billbrook,15187.293,0,very low
+11,Billstedt,638464.4163455,4,very high
+12,Billwerder,4233.7334255,0,very low
+13,Blankenese,43153.6286885,1,low
+14,Borgfelde,137107.794409,2,medium
+15,Bramfeld,670954.404299,4,very high
+16,Cranz,1029.550012,0,very low
+17,Curslack,8146.3434695,0,very low
+18,Dulsberg,658319.95543,4,very high
+19,Duvenstedt,41378.325913,1,low
+20,Eidelstedt,660124.551905,4,very high
+21,Eilbek,290211.693191,3,high
+22,Eimsbüttel,941708.738914,4,very high
+23,Eißendorf,19619.601923,1,low
+24,Eppendorf,261050.211114,3,high
+25,Farmsen-Berne,619799.769312,4,very high
+26,Francop,5207.5842205,0,very low
+27,Fuhlsbüttel,339593.375221,3,high
+28,Groß Borstel,132420.9285765,2,medium
+29,Groß Flottbek,67807.574008,1,low
+30,HafenCity,10069.947542,0,very low
+31,Hamburg-Altstadt,4363.4097679999995,0,very low
+32,Hamm,417519.7482945,4,very high
+33,Hammerbrook,81683.701066,2,medium
+34,Harburg,81709.395914,2,medium
+35,Harvestehude,173425.3030685,2,medium
+36,Hausbruch,33813.233641,1,low
+37,Heimfeld,48630.847413,1,low
+38,Hoheluft-Ost,119970.0119295,2,medium
+39,Hoheluft-West,120640.4103285,2,medium
+40,Hohenfelde,159384.400347,2,medium
+41,Horn,442781.3110795,4,very high
+42,Hummelsbüttel,468501.087411,4,very high
+43,Iserbrook,65127.057788,1,low
+44,Jenfeld,321470.558064,3,high
+45,Kleiner Grasbrook,75209.330676,2,medium
+46,Langenbek,551.6794365,0,very low
+47,Langenhorn,479714.9515215,4,very high
+48,Lemsahl-Mellingstedt,45376.4513425,1,low
+49,Lohbrügge,224756.8741985,2,medium
+50,Lokstedt,344146.02191,3,high
+51,Lurup,388846.702089,3,high
+52,Marienthal,189339.071317,2,medium
+53,Marmstorf,1552.065715,0,very low
+54,Moorburg,4046.978045,0,very low
+55,Moorfleet,9236.1576285,0,very low
+56,Neuallermöhe,16900.8440345,1,low
+57,Neuenfelde,11208.3250915,0,very low
+58,Neuengamme,3869.8132145,0,very low
+59,Neugraben-Fischbek,26754.6616105,1,low
+60,Neuland,3612.2417570000002,0,very low
+61,Neustadt,58812.8963425,1,low
+62,Niendorf,564678.692863,4,very high
+63,Nienstedten,40579.0079565,1,low
+64,Ohlsdorf,394725.6138,3,high
+65,Osdorf,178616.2785945,2,medium
+66,Othmarschen,138747.5268075,2,medium
+67,Ottensen,275108.34993799997,3,high
+68,Poppenbüttel,586277.8633545,4,very high
+69,Rahlstedt,1164945.1404355,4,very high
+70,Rissen,69485.7757165,2,medium
+71,Rothenburgsort,113796.413737,2,medium
+72,Rotherbaum,112631.5808975,2,medium
+73,Rönneburg,522.65171,0,very low
+74,Sasel,300661.9474935,3,high
+75,Schnelsen,709599.901329,4,very high
+76,Sinstorf,1019.1576275,0,very low
+77,St. Georg,26722.154831,1,low
+78,St. Pauli,39218.657643,1,low
+79,Steilshoop,391861.5241885,3,high
+80,Stellingen,496705.7764535,4,very high
+81,Sternschanze,24615.331232,1,low
+82,Sülldorf,55147.4366705,1,low
+83,Tonndorf,374343.648168,3,high
+84,Uhlenhorst,220575.304153,2,medium
+85,Veddel,52508.919165499996,1,low
+86,Volksdorf,234982.946179,3,high
+87,Wandsbek,1527728.565948,4,very high
+88,Wellingsbüttel,230984.5358555,2,medium
+89,Wilhelmsburg,239991.8183055,3,high
+90,Wilstorf,9991.2295095,0,very low
+91,Winterhude,932231.1992345001,4,very high
+92,Wohldorf-Ohlstedt,40982.4117525,1,low
