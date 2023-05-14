@@ -2,7 +2,7 @@
 
 ## Intro
 This script analyses and classifies different environmental and social status indicators to assess questions in relation to the topic of environmental justice within the city of Hamburg, Germany.
-The three core indicators are: Social Status, Green Area Supply, Thermal Burden. Level of spatial analysis are districts for the City of Hamburg. The script first calculates and classifies statistics in relation to each individual indicator to explore the spatial distribution between the districts. In a second step, the individual indicators are combined to assess the relation between social status and environmental conditions.
+The four core indicators are: Social Status, Green Area Supply, Thermal Burden and Noise Pollution. Level of spatial analysis are districts for the City of Hamburg. The script first calculates and classifies statistics in relation to each individual indicator to explore the spatial distribution between the districts. In a second step, the individual indicators are combined to assess the relation between social status and environmental conditions.
 The script creates maps and plots (available in the "output" folder) to visualize the results of the analysis. A How-to Guide is equally made available in the repository
 
 ## Installation / Set-Up
@@ -39,4 +39,4 @@ Head over to the "output folder" to see the maps created by the code
 
 ##Troubleshooting
 The script loads csv files. Issues with reading the csv files might arise when a different setting is used for the "separators" in excel. Update the code specifying the delimiter used for reading
-the files when loading the data. 
+the files when loading the data. Head to the How-to Guide for furher instructions.
