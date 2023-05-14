@@ -7,7 +7,7 @@
 5,Bahrenfeld,340127.202095,3,high
 6,Barmbek-Nord,908627.8429865,4,very high
 7,Barmbek-Süd,344372.7682405,3,high
-8,Bergedorf,232291.827208,3,high
+8,Bergedorf,116145.913604,2,medium
 9,Bergstedt,154225.4668295,2,medium
 10,Billbrook,15187.293,0,very low
 11,Billstedt,638464.4163455,4,very high
@@ -21,19 +21,19 @@
 19,Duvenstedt,41378.325913,1,low
 20,Eidelstedt,660124.551905,4,very high
 21,Eilbek,290211.693191,3,high
-22,Eimsbüttel,941708.738914,4,very high
+22,Eimsbüttel,470854.369457,4,very high
 23,Eißendorf,19619.601923,1,low
 24,Eppendorf,261050.211114,3,high
 25,Farmsen-Berne,619799.769312,4,very high
 26,Francop,5207.5842205,0,very low
 27,Fuhlsbüttel,339593.375221,3,high
 28,Groß Borstel,132420.9285765,2,medium
-29,Groß Flottbek,67807.574008,1,low
+29,Groß Flottbek,67807.574008,2,medium
 30,HafenCity,10069.947542,0,very low
 31,Hamburg-Altstadt,4363.4097679999995,0,very low
 32,Hamm,417519.7482945,4,very high
 33,Hammerbrook,81683.701066,2,medium
-34,Harburg,81709.395914,2,medium
+34,Harburg,40854.697957,1,low
 35,Harvestehude,173425.3030685,2,medium
 36,Hausbruch,33813.233641,1,low
 37,Heimfeld,48630.847413,1,low
@@ -86,8 +86,8 @@
 84,Uhlenhorst,220575.304153,2,medium
 85,Veddel,52508.919165499996,1,low
 86,Volksdorf,234982.946179,3,high
-87,Wandsbek,1527728.565948,4,very high
-88,Wellingsbüttel,230984.5358555,2,medium
+87,Wandsbek,763864.282974,4,very high
+88,Wellingsbüttel,230984.5358555,3,high
 89,Wilhelmsburg,239991.8183055,3,high
 90,Wilstorf,9991.2295095,0,very low
 91,Winterhude,932231.1992345001,4,very high
